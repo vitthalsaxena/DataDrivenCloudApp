@@ -1,6 +1,7 @@
 # Distance Module
 
 Consists of four internal functions:
+
 feetToMeters(value): Converts feet to meters
 
 metersToFeet(value): Converts meters to feet\n
