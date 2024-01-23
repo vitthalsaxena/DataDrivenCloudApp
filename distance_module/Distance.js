@@ -1,4 +1,4 @@
-const feetToMeters = feet => feet*0.348;
+const feetToMeters = feet => feet*0.3048;
 const metersToFeet = meters => meters*3.28084;
 const milesToKm = miles => miles*1.60934;
 const kmToMiles = km => km*0.62137;
